@@ -71,3 +71,35 @@ Access the pbix/pbit file here :
 </p>
 
 ### Power BI Reporting & Insights
+#### Brand Stats 
+<img width="1278" height="718" alt="Brand Stats" src="https://github.com/user-attachments/assets/7fa784ed-9b16-47d9-b4e4-99c8c26600a0" />
+
+#### Brand Stats [With Hover Tooltip]
+<img width="1278" height="722" alt="Tooltip Behaviour" src="https://github.com/user-attachments/assets/9e8ebf58-84e9-42ae-95c8-c2fc702551ec" />
+
+#### Utilities [Efficiency]
+<img width="959" height="536" alt="Utilities  Efficiency" src="https://github.com/user-attachments/assets/a593e9d1-063d-4c09-95b8-1389877cb355" />
+
+#### Utilities [Market]
+<img width="958" height="539" alt="Utilities  Market" src="https://github.com/user-attachments/assets/dc60efd2-4723-4fcd-90cf-a4b63264f9c9" />
+
+#### Utilities [Sessions]
+<img width="961" height="540" alt="Utilities  Sessions" src="https://github.com/user-attachments/assets/77e1adf4-82d1-42c3-b384-b69fd96aa6cf" />
+
+## Project Summary
+This project combines Python, SQL, and Power BI to explore and analyze EV charging infrastructure and usage patterns. SQL was used to extract and structure the data, Python (Pandas) handled cleaning and calculations, and Power BI created interactive dashboards. The integrated approach offers clear insights into station performance, energy consumption, and revenue trends, helping guide informed decisions for optimizing EV operations.
+
+<p align="center">
+Thank you for reviewing this project. I hope the EV insights are informative and useful.</p>
+
+<p align="center">
+  🌟⭐⭐⭐🌟
+</p>
+<h3 align="center">Acknowledgment</h3>
+
+<p align="center">
+  Starting with sincere thanks, I appreciate your time in reviewing this project and hope the EV insights presented are valuable and informative.
+</p>
+
+
+
