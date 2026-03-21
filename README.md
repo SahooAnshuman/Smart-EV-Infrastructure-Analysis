@@ -95,7 +95,7 @@ Thank you for reviewing this project. I hope the EV insights are informative and
 <p align="center">
   🌟⭐⭐⭐🌟
 </p>
-<h3 align="center">Acknowledgment</h3>
+<h3 align="center">Expression of Gratitude</h3>
 
 <p align="center">
   Starting with sincere thanks, I appreciate your time in reviewing this project and hope the EV insights presented are valuable and informative.
