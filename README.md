@@ -28,7 +28,7 @@ Before building the dashboard, extensive data preprocessing and exploratory data
 Access the .ipynb file along with the dataset here :
 
 <p align="center">
-  <a href="https://github.com/SahooAnshuman/Smart-EV-Infrastructure-Analysis/blob/main/SQL%20Business%20Analysis%20(.ipynb%20file%20attached).zip">
+  <a href="https://github.com/SahooAnshuman/Smart-EV-Infrastructure-Analysis/blob/main/Python%20Cleaning%20(.ipynb%20file%20attached).zip">
     <img src="https://img.shields.io/badge/Download-ipynb-000000?style=for-the-badge&logo=python&logoColor=FFFFFF&labelColor=554F4F&color=D64550">
   </a>
 </p>
@@ -47,7 +47,7 @@ The SQL operations are performed using Pandas in a Jupyter Notebook (.ipynb) for
 The file and dataset can be accessed here for reference : 
 
 <p align="center">
-  <a href="https://github.com/SahooAnshuman/Smart-EV-Infrastructure-Analysis/blob/main/Cleaned%20Datasets.zip">
+  <a href="https://github.com/SahooAnshuman/Smart-EV-Infrastructure-Analysis/blob/main/SQL%20Business%20Analysis%20(.ipynb%20file%20attached).zip">
     <img src="https://img.shields.io/badge/Download-ipynb-000000?style=for-the-badge&logo=databricks&logoColor=FFFFFF&labelColor=554F4F&color=D64550">
   </a>
 </p>
@@ -65,7 +65,7 @@ An Interactive Business Intelligence Dashboard presents key data in a clear and 
 Access the pbix/pbit file here : 
 
 <p align="center">
-  <a href="https://github.com/SahooAnshuman/Smart-EV-Infrastructure-Analysis/blob/main/Cleaned%20Datasets.zip">
+  <a href="https://github.com/SahooAnshuman/Smart-EV-Infrastructure-Analysis/blob/main/Smart%20EV%20Infrastructure%20Analysis.pbit">
     <img src="https://img.shields.io/badge/Download-POWERBI-000000?style=for-the-badge&logo=chartdotjs&logoColor=white&labelColor=554F4F&color=D64550">
   </a>
 </p>
