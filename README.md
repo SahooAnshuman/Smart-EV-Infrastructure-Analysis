@@ -29,7 +29,7 @@ Access the .ipynb file along with the dataset here :
 
 <p align="center">
   <a href="https://github.com/SahooAnshuman/Smart-EV-Infrastructure-Analysis/blob/main/Cleaned%20Datasets.zip">
-    <img src="https://github.com/SahooAnshuman/Smart-EV-Infrastructure-Analysis/blob/main/Python%20Cleaning%20(.ipynb%20file%20attached).zip">
+    <img src="https://img.shields.io/badge/Download-ipynb-000000?style=for-the-badge&logo=python&logoColor=FFFFFF&labelColor=554F4F&color=D64550">
   </a>
 </p>
 
@@ -48,7 +48,7 @@ The file and dataset can be accessed here for reference :
 
 <p align="center">
   <a href="https://github.com/SahooAnshuman/Smart-EV-Infrastructure-Analysis/blob/main/Cleaned%20Datasets.zip">
-    <img src="https://github.com/SahooAnshuman/Smart-EV-Infrastructure-Analysis/blob/main/SQL%20Business%20Analysis%20(.ipynb%20file%20attached).zip">
+    <img src="https://img.shields.io/badge/Download-ipynb-000000?style=for-the-badge&logo=databricks&logoColor=FFFFFF&labelColor=554F4F&color=D64550">
   </a>
 </p>
 
