@@ -1,4 +1,4 @@
-# Smart EV Infrastructure Analysis [PYTHON LIB + MYSQL + POWER BI]
+# Smart EV Infrastructure Analysis [Python Lib + MySQL + Power BI]
 
 ## Overview
 
