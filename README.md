@@ -1,5 +1,11 @@
 # Smart EV Infrastructure Analysis [Python Lib + MySQL + Power BI]
 
+
+
+
+
+<img width="951" height="638" alt="image" src="https://github.com/user-attachments/assets/1870fcea-01d6-4abc-b4e4-ba28c83c7d0d" />
+
 ## Overview
 
 This project focuses on analyzing Electric Vehicle (EV) charging data using SQL and Power BI.
